@@ -3,9 +3,8 @@
 ## 🎯 START HIER
 
 1. **Zum Verstehen der Vorlage:** [TEMPLATE_INFO.md](TEMPLATE_INFO.md)
-2. **Für Lehrpersonen:** [LEHRERINFO.md](LEHRERINFO.md)
-3. **Projektübersicht:** [README.md](README.md)
-4. **Git-Workflow:** [GIT_WORKFLOW.md](GIT_WORKFLOW.md)
+2. **Projektübersicht:** [README.md](README.md)
+3. **Git-Workflow:** [GIT_WORKFLOW.md](GIT_WORKFLOW.md)
 
 ---
 
@@ -23,7 +22,6 @@ pyproject.toml          Python-Projektconfig & Dependencies
 ```
 README.md               Komplette Projekt-Übersicht
 TEMPLATE_INFO.md        Info über diese Vorlage
-LEHRERINFO.md          Anleitung für Lehrpersonen
 GIT_WORKFLOW.md        Git Best Practices & Workflow
 
 docs/
@@ -156,9 +154,9 @@ git commit -m "Initial: Projektvorlage v0.1"
 - [ ] Erstes Mergekonflikt als Lernchance
 
 ### Phase 2: Erweitern (Woche 2-6)
-- [ ] SQLite-Adapter implementieren
+- [ ] Datenbank-Adapter implementieren
 - [ ] Report B (Grafiken)
-- [ ] GUI-Finanzierung
+- [ ] GUI
 - [ ] Test-Coverage erhöhen
 
 ### Phase 3: Stabilisieren (Woche 7-8)
@@ -226,7 +224,7 @@ git commit -m "Initial: Projektvorlage v0.1"
 
 - **Python-Code:** ~1500 Zeilen
 - **Tests:** ~250 Zeilen
-- **Dokumentation:** ~3000 Zeilen Markdown
+- **Dokumentation:** ~3000 Zeilen Markdown (gerne auch KI-erstellt!)
 - **Gesamtumfang:** Perfekt für 8-Wochen Projekt
 
 ---
@@ -244,6 +242,6 @@ git commit -m "Initial: Projektvorlage v0.1"
 ---
 
 **Version:** 0.1  
-**Erstellt:** 2025-01-20  
-**Für:** 4. Jahrgang Softwareentwicklung & Projektmanagement  
-**Bearbeitungszeit:** 8 Wochen | 2 UE pro Woche
+**Erstellt:** 2025-01-29 
+**Für:** 5. Jahrgang Softwareentwicklung & Projektmanagement  
+**Bearbeitungszeit:** 7-8 Wochen | 2 UE pro Woche
